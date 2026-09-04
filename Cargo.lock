@@ -4,9 +4,9 @@ version = 4
 
 [[package]]
 name = "telnet"
-version = "0.2.4"
+version = "0.2.5"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "fe470bf03e694eccaac03d81297cbc22e681f60d3af29d4b69369f014895bf06"
+checksum = "01b97995bb05d87c31d04870a7b5393228017d12971d446e30d0739f484c5968"
 
 [[package]]
 name = "velox-rs"
